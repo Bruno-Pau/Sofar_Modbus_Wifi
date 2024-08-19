@@ -1,10 +1,11 @@
 # Sofar_Modbus_Wifi
 ![Image](Sofar-HYD6000-ES.png)
+![Image](panneau-photovoltaique.png)
 
 Windows app to read Sofar Inverter HYD3000/6000-ES information  <br>
 This sotfware has been develloped under C++ Builder 6 ( Borland ) <br><br>
 
-![Image](panneau-photovoltaique.png)
+
 
 # screenshot
 ![Image](ClientSofar2-a.png) <br> <br>
