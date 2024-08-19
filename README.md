@@ -2,7 +2,7 @@
 ![Image](Sofar-HYD6000-ES.png)
 
 Windows app to read Sofar Inverter HYD3000/6000-ES information  <br>
-This sotfware has been develloped under ( Borland ) <br><br>
+This sotfware has been develloped under C++ Builder 6 ( Borland ) <br><br>
 
 ![Image](panneau-photovoltaique.png)
 
