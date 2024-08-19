@@ -11,7 +11,7 @@ This sotfware has been develloped under ( Borland ) <br><br>
 ![Image](ClientSofar2-b.png) <br> <br>
 ![Image](ClientSofar2-c.png) <br> <br>
 
-# operation
+# Operation
 This software ( ClientSofar2 ) requests information from the Sofar hybrid inverter via Wifi. <br>
 The request consists of a Modbus frame, included in a special Sofar TCP frame. <br>
 It returns various information as product power, load power, errors, etc ... <br>
