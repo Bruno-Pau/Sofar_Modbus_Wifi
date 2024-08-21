@@ -4,7 +4,7 @@
 
 Windows app to read Sofar Inverter HYD3000/6000-ES information  <br>
 This sotfware has been develloped under C++ Builder 6 ( Borland ) <br><br>
-
+You can launch directly the software (ClientSofar2.exe). No need to compile it.<br><br>
 
 
 # screenshot
